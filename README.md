@@ -10,3 +10,6 @@
 
 ## Regenerating the keymap visual
 https://keymap-drawer.streamlit.app/
+
+## List of ZMK Keycodes
+https://zmk.dev/docs/keymaps/list-of-keycodes
